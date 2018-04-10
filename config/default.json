@@ -5,7 +5,7 @@
 		"expiresIn":86400
 	},
 	"upload_config":{
-		"baseURL":"http://localhost:8888",
+		"baseURL":"http://139.224.116.202:8888",
 		"upload_ueditor":"uploads/ueditor",
 		"simple_upload_redirect":"http://47.96.21.88/reload"
 	},
