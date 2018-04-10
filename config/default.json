@@ -14,7 +14,7 @@
 		"host" : "127.0.0.1",
 		"database" : "OA",
 		"user" : "root",
-		"password" : "",
+		"password" : "123456",
 		"port" : 3306	
 	}
 }
