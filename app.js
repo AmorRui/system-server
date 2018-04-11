@@ -128,6 +128,6 @@ app.use(function(req, res, next) {
 	res.sendResult(null,404,"Not Found");
 });
 
-app.listen(8888);
+app.listen(3333);
 
 module.exports = app;
