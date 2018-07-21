@@ -1,4 +1,6 @@
-#### 项目整体文件说明
+# system-server
+## 使用nodejs + mysql 构建system 后台接口API
+## 文件介绍
 - `config` 配置文件目录
   - `default.json` 默认配置文件（其中包含数据库配置，jwt配置）
 - `dao` 数据访问层，存放对数据库的增删改查操作
